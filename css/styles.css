@@ -1,0 +1,34 @@
+body{
+    background-color:#eaf6f6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color: #66bfbf;
+    background-color:black;
+    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: #66bfbf;
+    background-color: black;
+    
+}
+p{
+    color:brown;
+}
+ul{
+    color: brown;
+}
+table{
+    color: brown;
+}
+thead{
+    color: black;
+    font-style: italic;
+}
